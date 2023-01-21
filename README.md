@@ -11,6 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=fff)
 
+#### Frameworks
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=fff)
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dimaspirit&theme=dark)](https://git.io/streak-stats) -->
 ## Review my work
 ![dima's github stats](https://github-readme-stats.vercel.app/api?username=dimaspirit&show_icons=true&hide=stars,issues)
