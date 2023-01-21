@@ -11,4 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=fff)
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=dimaspirit&show_icons=true&theme=dracula&hide=stars,issues)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dimaspirit&theme=dark)](https://git.io/streak-stats) -->
+## Review my work
+![dima's github stats](https://github-readme-stats.vercel.app/api?username=dimaspirit&show_icons=true&hide=stars,issues)
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaspirit&layout=compact&theme=buefy&hide_border=true" /> -->
+
