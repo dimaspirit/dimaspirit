@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Dmytro Lobanov
 
-## Javascript developer
+### Javascript developer
 
 I am a professional software engineer specializing in Javascript, I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like Vue and React.
 
