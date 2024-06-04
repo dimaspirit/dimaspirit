@@ -10,15 +10,6 @@ I am a software engineer with over 10 years of commercial experience and a UI/UX
 
 Proven ability to lead development teams and deliver high-quality code on time. I am committed to continuously learning and developing my skills, with a current focus on UI/UX. I possess strong UI/UX design skills, a keen eye for detail, and a passion for creating intuitive user interfaces.
 
-## :telephone_receiver: Connect with me
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&Color=white
-[linkedin-url]: https://linkedin.com/in/dimaspirit
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[dribbble-shield]: https://img.shields.io/badge/-Dribbble-fff.svg?style=for-the-badge&logo=dribbble&Color=black
-[dribbble-url]: https://dribbble.com/dmytrolobanov
-[![Dribbble][dribbble-shield]][dribbble-url]
-
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dimaspirit&theme=dark)](https://git.io/streak-stats) -->
 ## Review my work
 <!-- ![dima's Github stats](https://github-readme-stats.vercel.app/api?username=dimaspirit&show_icons=true&hide=stars,issues) -->
